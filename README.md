@@ -1,17 +1,20 @@
-# Kira Defteri
-
-## TÜRKÇE
+# Kira Defteri — Türkçe
 
 Kira Defteri, ev sahipleri ve küçük ölçekli mülk yöneticileri için geliştirilmiş bir iOS uygulamasıdır.
 
-### Sayfalar
+## Website
 
-- [Destek Sayfası](./support.html)
-- [Gizlilik Politikası](./privacy.html)
+- [Kira Defteri](https://ctnevr.github.io/kiradefteri/)
+- [Support](https://ctnevr.github.io/kiradefteri/support.html)
+- [Privacy Policy](https://ctnevr.github.io/kiradefteri/privacy.html)
 
-### Uygulama Özeti
+## Platform
 
-Kira Defteri ile şu işlemler yönetilebilir:
+- iPhone
+- iPad
+- iOS / iPadOS
+
+## Özellikler
 
 - Mülk yönetimi
 - Kiracı takibi
@@ -23,27 +26,30 @@ Kira Defteri ile şu işlemler yönetilebilir:
 - CSV içe aktarma
 - Hatırlatmalar ve bildirimler
 
-### İletişim
+## Gizlilik
 
-Destek için: [ceetin@gmail.com]
+Kira Defteri, kullanıcı verilerini büyük ölçüde cihaz üzerinde tutacak şekilde tasarlanmıştır.
+
+Uygulama kullanıcı verilerini geliştiricinin sunucularına göndermez.
+
+## Destek
+
+Destek için:
+
+https://ctnevr.github.io/kiradefteri/support.html
 
 ---
 
-## ENGLISH
+# Kira Defteri
 
 Kira Defteri is an iOS application designed for landlords and small-scale property managers.
 
-### Pages
+It helps manage properties, tenants, rent payments, deposits, expenses, reports, backups, imports, reminders, and notifications.
 
-- [Support Page](./support.html)
-- [Privacy Policy](./privacy.html)
+## Features
 
-### App Overview
-
-Kira Defteri helps manage:
-
-- Properties
-- Tenants
+- Property management
+- Tenant tracking
 - Rent payments
 - Deposit tracking
 - Expense management
@@ -52,6 +58,18 @@ Kira Defteri helps manage:
 - CSV import
 - Reminders and notifications
 
-### Contact
+## Privacy
 
-For support: [ceetin@gmail.com]
+Kira Defteri is designed to keep user data on the device. The app does not send user data to the developer's servers.
+
+Users can explicitly initiate JSON backup, CSV import, PDF report generation, or other file-related actions.
+
+## Support
+
+For support information, visit:
+
+https://ctnevr.github.io/kiradefteri/support.html
+
+---
+
+© 2026 Kira Defteri
